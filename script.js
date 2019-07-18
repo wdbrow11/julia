@@ -11,7 +11,8 @@ var shoutouts = [
   "Your easy-going attitude in both problem solving situations and in general. I love seeing you in the morning and talking with you about random things. You always make conversation interesting and all your ideas are really creative.",
   "your patience!",
   "how kind you are and how wonderful talking to you is. You are so nice and I love how you have such a nice gentle touch and finnesse. Thanks for making camp so much more enjoyable. I also love how you know so much about a lot of TV shows and movies.",
-  "Your passion for everything you do! You are also so motivating and I don’t think I could work on the project without you."
+  "Your passion for everything you do! You are also so motivating and I don’t think I could work on the project without you.",
+  "your creativity touch in everything and that you see the way of making things original, also that you're a bossy partner and you make me continue work"
 ]
 
 for (x of shoutouts) {
