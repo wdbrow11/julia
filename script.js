@@ -5,9 +5,9 @@ var shoutouts = [
   "You're super cool! I like your quiet presence and how you like the same artists that I do.",
   "How you treat everyone so respectfully!",
   "You're very nice!",
-  "your Junior Jewels shirt! I seriously thought you purchased it off a fansite and just added 'Redkode City' with a sharpie."
+  "your Junior Jewels shirt! I seriously thought you purchased it off a fansite and just added 'Redkode City' with a sharpie.",
   "that you put in tons of effort with whatever you do",
-  "Your taste in music and shows!"
+  "Your taste in music and shows!",
   "Your easy-going attitude in both problem solving situations and in general. I love seeing you in the morning and talking with you about random things. You always make conversation interesting and all your ideas are really creative.",
   "your patience!",
   "how kind you are and how wonderful talking to you is. You are so nice and I love how you have such a nice gentle touch and finnesse. Thanks for making camp so much more enjoyable. I also love how you know so much about a lot of TV shows and movies.",
